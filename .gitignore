@@ -1,0 +1,123 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables file
+.env
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# build/ directory
+build/
+
+# .next/ directory for Next.js
+.next/
+
+# Out directory for Next.js
+out/
+
+# Production directory
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+.eggs/
+*.pyo
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+.history/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# React
+build/
+public/static/
+src/serviceWorker.js
+src/setupTests.js
+
+# Parcel-bundler cache (if used)
+.cache/
+.parcel-cache/
+
+# SvelteKit build directory
+.svelte-kit/
+
+# SvelteKit build output
+build/
+
+# Firebase
+.firebase/
+
+# Firebase Local Emulator
+firebase-debug.log
+firestore-debug.log
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+.idea/workspace.xml
+.idea/modules.xml
+.idea/libraries
+.idea/.name
+.idea/dbnavigator.xml
+.idea/dictionaries
+.idea/markdown-navigator.xml
+.idea/vcs.xml
+.idea/jsLinters/jshint.xml
+.idea/tslintrc.xml
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.whl
