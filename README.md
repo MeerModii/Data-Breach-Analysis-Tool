@@ -41,6 +41,7 @@ The Data Breach Analysis Tool is a comprehensive application designed to analyze
 
 ## Project Structure
 ```javascript
+data-breach-analysis-tool/
 ├── backend/
 │   ├── models/
 │   ├── routes/
@@ -60,4 +61,5 @@ The Data Breach Analysis Tool is a comprehensive application designed to analyze
 │   ├── main.py
 │   └── requirements.txt
 └── README.md
+
 
